@@ -17,7 +17,7 @@
 #ifdef CAPSTONE_HAS_ARM64
 
 #if defined (WIN32) || defined (WIN64) || defined (_WIN32) || defined (_WIN64)
-#pragma warning(disable:4996)
+#pragma warning(disable:4996)   // disable MSVC's warning on strcpy()
 #endif
 
 #include "../../utils.h"
