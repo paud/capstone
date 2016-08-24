@@ -127,7 +127,7 @@
       <WppScanConfigurationData Condition="'%(ClCompile. ScanConfigurationData)'  == ''">trace.h</WppScanConfigurationData>
       <WppKernelMode>true</WppKernelMode>
       <AdditionalIncludeDirectories>..\..\include;..\headers;$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <PreprocessorDefinitions>CAPSTONE_X86_ATT_DISABLE;CAPSTONE_DIET_NO;CAPSTONE_X86_REDUCE_NO;_CAPSTONE_HAS_ARM;_CAPSTONE_HAS_ARM64;_CAPSTONE_HAS_MIPS;_CAPSTONE_HAS_POWERPC;_CAPSTONE_HAS_SPARC;CAPSTONE_HAS_SYSZ;CAPSTONE_HAS_X86;CAPSTONE_HAS_XCORE;CAPSTONE_USE_SYS_DYN_MEM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>CAPSTONE_X86_ATT_DISABLE;CAPSTONE_DIET_NO;CAPSTONE_X86_REDUCE_NO;_CAPSTONE_HAS_ARM;_CAPSTONE_HAS_ARM64;_CAPSTONE_HAS_MIPS;_CAPSTONE_HAS_POWERPC;_CAPSTONE_HAS_SPARC;_CAPSTONE_HAS_SYSZ;CAPSTONE_HAS_X86;_CAPSTONE_HAS_XCORE;CAPSTONE_USE_SYS_DYN_MEM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <TreatWarningAsError>false</TreatWarningAsError>
       <WarningLevel>Level3</WarningLevel>
     </ClCompile>
@@ -137,7 +137,7 @@
       <WppScanConfigurationData Condition="'%(ClCompile. ScanConfigurationData)'  == ''">trace.h</WppScanConfigurationData>
       <WppKernelMode>true</WppKernelMode>
       <AdditionalIncludeDirectories>..\..\include;..\headers;$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <PreprocessorDefinitions>CAPSTONE_X86_ATT_DISABLE;CAPSTONE_DIET_NO;CAPSTONE_X86_REDUCE_NO;_CAPSTONE_HAS_ARM;_CAPSTONE_HAS_ARM64;_CAPSTONE_HAS_MIPS;_CAPSTONE_HAS_POWERPC;_CAPSTONE_HAS_SPARC;CAPSTONE_HAS_SYSZ;CAPSTONE_HAS_X86;CAPSTONE_HAS_XCORE;CAPSTONE_USE_SYS_DYN_MEM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>CAPSTONE_X86_ATT_DISABLE;CAPSTONE_DIET_NO;CAPSTONE_X86_REDUCE_NO;_CAPSTONE_HAS_ARM;_CAPSTONE_HAS_ARM64;_CAPSTONE_HAS_MIPS;_CAPSTONE_HAS_POWERPC;_CAPSTONE_HAS_SPARC;_CAPSTONE_HAS_SYSZ;CAPSTONE_HAS_X86;_CAPSTONE_HAS_XCORE;CAPSTONE_USE_SYS_DYN_MEM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <TreatWarningAsError>false</TreatWarningAsError>
       <WarningLevel>Level3</WarningLevel>
     </ClCompile>
@@ -147,7 +147,7 @@
       <WppScanConfigurationData Condition="'%(ClCompile. ScanConfigurationData)'  == ''">trace.h</WppScanConfigurationData>
       <WppKernelMode>true</WppKernelMode>
       <AdditionalIncludeDirectories>..\..\include;..\headers;$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <PreprocessorDefinitions>CAPSTONE_X86_ATT_DISABLE;CAPSTONE_DIET_NO;CAPSTONE_X86_REDUCE_NO;_CAPSTONE_HAS_ARM;_CAPSTONE_HAS_ARM64;_CAPSTONE_HAS_MIPS;_CAPSTONE_HAS_POWERPC;_CAPSTONE_HAS_SPARC;CAPSTONE_HAS_SYSZ;CAPSTONE_HAS_X86;CAPSTONE_HAS_XCORE;CAPSTONE_USE_SYS_DYN_MEM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>CAPSTONE_X86_ATT_DISABLE;CAPSTONE_DIET_NO;CAPSTONE_X86_REDUCE_NO;_CAPSTONE_HAS_ARM;_CAPSTONE_HAS_ARM64;_CAPSTONE_HAS_MIPS;_CAPSTONE_HAS_POWERPC;_CAPSTONE_HAS_SPARC;_CAPSTONE_HAS_SYSZ;CAPSTONE_HAS_X86;_CAPSTONE_HAS_XCORE;CAPSTONE_USE_SYS_DYN_MEM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <TreatWarningAsError>false</TreatWarningAsError>
       <WarningLevel>Level3</WarningLevel>
     </ClCompile>
@@ -157,7 +157,7 @@
       <WppScanConfigurationData Condition="'%(ClCompile. ScanConfigurationData)'  == ''">trace.h</WppScanConfigurationData>
       <WppKernelMode>true</WppKernelMode>
       <AdditionalIncludeDirectories>..\..\include;..\headers;$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <PreprocessorDefinitions>CAPSTONE_X86_ATT_DISABLE;CAPSTONE_DIET_NO;CAPSTONE_X86_REDUCE_NO;_CAPSTONE_HAS_ARM;_CAPSTONE_HAS_ARM64;_CAPSTONE_HAS_MIPS;_CAPSTONE_HAS_POWERPC;_CAPSTONE_HAS_SPARC;CAPSTONE_HAS_SYSZ;CAPSTONE_HAS_X86;CAPSTONE_HAS_XCORE;CAPSTONE_USE_SYS_DYN_MEM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>CAPSTONE_X86_ATT_DISABLE;CAPSTONE_DIET_NO;CAPSTONE_X86_REDUCE_NO;_CAPSTONE_HAS_ARM;_CAPSTONE_HAS_ARM64;_CAPSTONE_HAS_MIPS;_CAPSTONE_HAS_POWERPC;_CAPSTONE_HAS_SPARC;_CAPSTONE_HAS_SYSZ;CAPSTONE_HAS_X86;_CAPSTONE_HAS_XCORE;CAPSTONE_USE_SYS_DYN_MEM;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <TreatWarningAsError>false</TreatWarningAsError>
       <WarningLevel>Level3</WarningLevel>
     </ClCompile>
